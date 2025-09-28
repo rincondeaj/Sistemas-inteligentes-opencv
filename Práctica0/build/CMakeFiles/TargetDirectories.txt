@@ -1,0 +1,7 @@
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/build/CMakeFiles/show_extremes.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/build/CMakeFiles/show_img.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/build/CMakeFiles/show_video.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/build/CMakeFiles/comp_stats.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/build/CMakeFiles/test_common_code.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/build/CMakeFiles/edit_cache.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio1/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -ggdb3 -O0 -Wall -std=gnu++11 -o CMakeFiles/cbg_process.dir/cbg_process.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio1/cbg_process.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio1/cbg_process.cpp",
+  "output": "CMakeFiles/cbg_process.dir/cbg_process.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio1/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -ggdb3 -O0 -Wall -std=gnu++11 -o CMakeFiles/cbg_process.dir/common_code.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio1/common_code.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio1/common_code.cpp",
+  "output": "CMakeFiles/cbg_process.dir/common_code.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio1/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -ggdb3 -O0 -Wall -std=gnu++11 -o CMakeFiles/cbg_process_test_common_code.dir/test_common_code.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio1/test_common_code.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio1/test_common_code.cpp",
+  "output": "CMakeFiles/cbg_process_test_common_code.dir/test_common_code.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio1/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -ggdb3 -O0 -Wall -std=gnu++11 -o CMakeFiles/cbg_process_test_common_code.dir/common_code.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio1/common_code.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio1/common_code.cpp",
+  "output": "CMakeFiles/cbg_process_test_common_code.dir/common_code.cpp.o"
+}
+]

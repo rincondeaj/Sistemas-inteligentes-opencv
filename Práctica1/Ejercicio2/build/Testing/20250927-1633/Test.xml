@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20250927-1633-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.28.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="drizzt-G5-GD"
+	OSRelease="6.14.0-29-generic"
+	OSVersion="#29~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Aug 14 16:52:50 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="141"
+	ProcessorCacheSize="12288"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="3814"
+	TotalPhysicalMemory="15772"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1244"
+	>
+	<Testing>
+		<StartDateTime>Sep 27 21:29 CEST</StartDateTime>
+		<StartTestTime>1759001386</StartTestTime>
+		<TestList>
+			<Test>./TestFSIVApplyChromaKey</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>TestFSIVApplyChromaKey</Name>
+			<Path>.</Path>
+			<FullName>./TestFSIVApplyChromaKey</FullName>
+			<FullCommandLine>/home/drizzt/Escritorio/Sistemas\ inteligentes\ en\ visión/Práctica1/Ejercicio2/build/test_common_code "fsiv_apply_chroma_key"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0108431</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/drizzt/Escritorio/Sistemas\ inteligentes\ en\ visión/Práctica1/Ejercicio2/build/test_common_code "fsiv_apply_chroma_key"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJwLSsxLyc9VKE5NTbFSMDQ1sDQ2MTQytDA3NzfgCkktLsnMS1dIK84si08sKMipjE/OKMrPTYzPTq1U0NPTU+CKKcGvSCMtvyg1Xa84sypVQ9PWNikxORvG0wSboOCfrUiaKYq4TAEAJ79DXA==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Sep 27 21:29 CEST</EndDateTime>
+		<EndTestTime>1759001386</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

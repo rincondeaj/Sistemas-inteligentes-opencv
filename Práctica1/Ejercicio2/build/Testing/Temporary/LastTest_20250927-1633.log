@@ -1,0 +1,22 @@
+Start testing: Sep 27 21:29 CEST
+----------------------------------------------------------
+4/4 Testing: TestFSIVApplyChromaKey
+4/4 Test: TestFSIVApplyChromaKey
+Command: "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio2/build/test_common_code" "fsiv_apply_chroma_key"
+Directory: /home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio2/build
+"TestFSIVApplyChromaKey" start time: Sep 27 21:29 CEST
+Output:
+----------------------------------------------------------
+Random seed: 15093412187770
+Testing fsiv_apply_chroma_key ... 
+\tTesting fsiv_apply_chroma_key (foreg.size()==backg.size()) ...  Ok!
+\tTesting fsiv_apply_chroma_key (foreg.size()!=backg.size()) ...  Ok!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TestFSIVApplyChromaKey" end time: Sep 27 21:29 CEST
+"TestFSIVApplyChromaKey" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 27 21:29 CEST

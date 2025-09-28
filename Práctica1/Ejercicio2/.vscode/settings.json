@@ -1,0 +1,9 @@
+{
+    "cmake.sourceDirectory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio2/chroma_key",
+    "files.associations": {
+        "random": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp"
+    }
+}

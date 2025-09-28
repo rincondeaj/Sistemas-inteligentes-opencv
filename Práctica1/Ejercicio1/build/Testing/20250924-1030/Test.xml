@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20250924-1030-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.28.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="drizzt-G5-GD"
+	OSRelease="6.14.0-29-generic"
+	OSVersion="#29~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Aug 14 16:52:50 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="141"
+	ProcessorCacheSize="12288"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="3814"
+	TotalPhysicalMemory="15772"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3989.46"
+	>
+	<Testing>
+		<StartDateTime>Sep 24 18:29 CEST</StartDateTime>
+		<StartTestTime>1758731364</StartTestTime>
+		<TestList>
+			<Test>./TestFSIVCBGProcessOnlyLuma</Test>
+		</TestList>
+		<Test Status="failed">
+			<Name>TestFSIVCBGProcessOnlyLuma</Name>
+			<Path>.</Path>
+			<FullName>./TestFSIVCBGProcessOnlyLuma</FullName>
+			<FullCommandLine>/home/drizzt/Escritorio/Sistemas\ inteligentes\ en\ visión/Práctica1/Ejercicio1/build/test_common_code "fsiv_cbg_process_only_luma"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Failed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.011554</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/drizzt/Escritorio/Sistemas\ inteligentes\ en\ visión/Práctica1/Ejercicio1/build/test_common_code "fsiv_cbg_process_only_luma"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Random seed: 310440280551
+Testing fsiv_cbg_process (BGR, only_luma==true) ... Test fail: cv::norm(my_img-your_img)=18.1108 &lt; 0.1!
+\t test data file: test-fsiv_cbg_process_only_luma-310440280551.xml
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Sep 24 18:29 CEST</EndDateTime>
+		<EndTestTime>1758731364</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

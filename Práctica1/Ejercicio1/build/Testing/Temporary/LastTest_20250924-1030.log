@@ -1,0 +1,21 @@
+Start testing: Sep 24 18:29 CEST
+----------------------------------------------------------
+6/6 Testing: TestFSIVCBGProcessOnlyLuma
+6/6 Test: TestFSIVCBGProcessOnlyLuma
+Command: "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio1/build/test_common_code" "fsiv_cbg_process_only_luma"
+Directory: /home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio1/build
+"TestFSIVCBGProcessOnlyLuma" start time: Sep 24 18:29 CEST
+Output:
+----------------------------------------------------------
+Random seed: 310440280551
+Testing fsiv_cbg_process (BGR, only_luma==true) ... Test fail: cv::norm(my_img-your_img)=18.1108 < 0.1!
+\t test data file: test-fsiv_cbg_process_only_luma-310440280551.xml
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"TestFSIVCBGProcessOnlyLuma" end time: Sep 24 18:29 CEST
+"TestFSIVCBGProcessOnlyLuma" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 24 18:29 CEST

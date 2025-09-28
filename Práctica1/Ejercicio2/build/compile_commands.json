@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio2/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -ggdb3 -O0 -Wall -std=gnu++11 -o CMakeFiles/chroma_key.dir/chroma_key.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio2/chroma_key/chroma_key.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio2/chroma_key/chroma_key.cpp",
+  "output": "CMakeFiles/chroma_key.dir/chroma_key.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio2/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -ggdb3 -O0 -Wall -std=gnu++11 -o CMakeFiles/chroma_key.dir/common_code.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio2/chroma_key/common_code.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio2/chroma_key/common_code.cpp",
+  "output": "CMakeFiles/chroma_key.dir/common_code.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio2/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -ggdb3 -O0 -Wall -std=gnu++11 -o CMakeFiles/chroma_key_test_common_code.dir/test_common_code.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio2/chroma_key/test_common_code.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio2/chroma_key/test_common_code.cpp",
+  "output": "CMakeFiles/chroma_key_test_common_code.dir/test_common_code.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio2/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -ggdb3 -O0 -Wall -std=gnu++11 -o CMakeFiles/chroma_key_test_common_code.dir/common_code.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio2/chroma_key/common_code.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio2/chroma_key/common_code.cpp",
+  "output": "CMakeFiles/chroma_key_test_common_code.dir/common_code.cpp.o"
+}
+]

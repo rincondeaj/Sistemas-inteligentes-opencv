@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -ggdb3 -O0 -Wall -std=gnu++11 -o CMakeFiles/show_extremes.dir/show_extremes.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/show_extremes.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/show_extremes.cpp",
+  "output": "CMakeFiles/show_extremes.dir/show_extremes.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -ggdb3 -O0 -Wall -std=gnu++11 -o CMakeFiles/show_extremes.dir/common_code.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/common_code.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/common_code.cpp",
+  "output": "CMakeFiles/show_extremes.dir/common_code.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -ggdb3 -O0 -Wall -std=gnu++11 -o CMakeFiles/show_img.dir/show_img.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/show_img.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/show_img.cpp",
+  "output": "CMakeFiles/show_img.dir/show_img.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -ggdb3 -O0 -Wall -std=gnu++11 -o CMakeFiles/show_video.dir/show_video.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/show_video.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/show_video.cpp",
+  "output": "CMakeFiles/show_video.dir/show_video.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -ggdb3 -O0 -Wall -std=gnu++11 -o CMakeFiles/comp_stats.dir/comp_stats.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/comp_stats.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/comp_stats.cpp",
+  "output": "CMakeFiles/comp_stats.dir/comp_stats.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -ggdb3 -O0 -Wall -std=gnu++11 -o CMakeFiles/test_common_code.dir/test_common_code.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/test_common_code.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/test_common_code.cpp",
+  "output": "CMakeFiles/test_common_code.dir/test_common_code.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/build",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -ggdb3 -O0 -Wall -std=gnu++11 -o CMakeFiles/test_common_code.dir/common_code.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/common_code.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica0/common_code.cpp",
+  "output": "CMakeFiles/test_common_code.dir/common_code.cpp.o"
+}
+]

@@ -1,0 +1,2 @@
+1. En common_code.cpp por qué tengo que redimensionar los vectores que recibo por parámetros
+si en el main.cpp ya uso el constructor de std::vector para inicializarlos con n valores

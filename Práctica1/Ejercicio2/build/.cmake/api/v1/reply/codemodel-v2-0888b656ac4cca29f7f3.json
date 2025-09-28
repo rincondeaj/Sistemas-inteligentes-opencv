@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "chroma_key",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "chroma_key::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chroma_key-Debug-3adb3c51ba960bb27b94.json",
+					"name" : "chroma_key",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chroma_key_test_common_code::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chroma_key_test_common_code-Debug-0c17e941c5f14b6ece28.json",
+					"name" : "chroma_key_test_common_code",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/drizzt/Escritorio/Sistemas inteligentes en visi\u00f3n/Pr\u00e1ctica1/Ejercicio2/build",
+		"source" : "/home/drizzt/Escritorio/Sistemas inteligentes en visi\u00f3n/Pr\u00e1ctica1/Ejercicio2/chroma_key"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

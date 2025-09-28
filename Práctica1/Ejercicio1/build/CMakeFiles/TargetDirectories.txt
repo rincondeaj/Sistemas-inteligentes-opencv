@@ -1,0 +1,5 @@
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio1/build/CMakeFiles/cbg_process.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio1/build/CMakeFiles/cbg_process_test_common_code.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio1/build/CMakeFiles/test.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio1/build/CMakeFiles/edit_cache.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/Ejercicio1/build/CMakeFiles/rebuild_cache.dir

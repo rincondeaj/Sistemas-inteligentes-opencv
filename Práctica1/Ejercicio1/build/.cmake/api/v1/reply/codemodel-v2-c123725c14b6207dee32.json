@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cbg_process",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cbg_process::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cbg_process-Debug-60b74a4be186d13bcc23.json",
+					"name" : "cbg_process",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cbg_process_test_common_code::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cbg_process_test_common_code-Debug-266d1ee818f471b1247a.json",
+					"name" : "cbg_process_test_common_code",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/drizzt/Escritorio/Sistemas inteligentes en visi\u00f3n/Pr\u00e1ctica1/Ejercicio1/build",
+		"source" : "/home/drizzt/Escritorio/Sistemas inteligentes en visi\u00f3n/Pr\u00e1ctica1/Ejercicio1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
