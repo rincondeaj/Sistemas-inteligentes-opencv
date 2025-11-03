@@ -1,0 +1,5 @@
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/usm_enhance/build/CMakeFiles/usm_enhance.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/usm_enhance/build/CMakeFiles/usm_enhance_test_common_code.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/usm_enhance/build/CMakeFiles/test.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/usm_enhance/build/CMakeFiles/edit_cache.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/usm_enhance/build/CMakeFiles/rebuild_cache.dir

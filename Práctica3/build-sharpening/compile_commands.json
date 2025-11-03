@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/build-sharpening",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -ggdb3 -O0 -Wall -std=gnu++11 -o CMakeFiles/sharpen.dir/sharpen.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/sharpening/sharpen.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/sharpening/sharpen.cpp",
+  "output": "CMakeFiles/sharpen.dir/sharpen.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/build-sharpening",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -ggdb3 -O0 -Wall -std=gnu++11 -o CMakeFiles/sharpen.dir/common_code.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/sharpening/common_code.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/sharpening/common_code.cpp",
+  "output": "CMakeFiles/sharpen.dir/common_code.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/build-sharpening",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -ggdb3 -O0 -Wall -std=gnu++11 -o CMakeFiles/sharpening_test_common_code.dir/test_common_code.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/sharpening/test_common_code.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/sharpening/test_common_code.cpp",
+  "output": "CMakeFiles/sharpening_test_common_code.dir/test_common_code.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/build-sharpening",
+  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -ggdb3 -O0 -Wall -std=gnu++11 -o CMakeFiles/sharpening_test_common_code.dir/common_code.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/sharpening/common_code.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/sharpening/common_code.cpp",
+  "output": "CMakeFiles/sharpening_test_common_code.dir/common_code.cpp.o"
+}
+]

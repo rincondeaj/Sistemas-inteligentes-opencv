@@ -1,0 +1,20 @@
+Start testing: Oct 16 17:54 CEST
+----------------------------------------------------------
+6/8 Testing: TestFSIVComputeClippedHistogram
+6/8 Test: TestFSIVComputeClippedHistogram
+Command: "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica2/img_equalization/build/test_common_code" "fsiv_compute_clipped_histogram"
+Directory: /home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica2/img_equalization/build
+"TestFSIVComputeClippedHistogram" start time: Oct 16 17:54 CEST
+Output:
+----------------------------------------------------------
+Random seed: 8346656786514
+Testing fsiv_compute_clipped_histogram(cl=497) ...  Ok!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TestFSIVComputeClippedHistogram" end time: Oct 16 17:54 CEST
+"TestFSIVComputeClippedHistogram" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 16 17:54 CEST

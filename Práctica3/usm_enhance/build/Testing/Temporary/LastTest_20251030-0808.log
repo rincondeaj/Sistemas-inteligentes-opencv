@@ -1,0 +1,20 @@
+Start testing: Oct 30 20:25 CET
+----------------------------------------------------------
+8/8 Testing: TestFSIVUSMEnhanceCircular
+8/8 Test: TestFSIVUSMEnhanceCircular
+Command: "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/usm_enhance/build/test_common_code" "fsiv_usm_enhance_circular"
+Directory: /home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/usm_enhance/build
+"TestFSIVUSMEnhanceCircular" start time: Oct 30 20:25 CET
+Output:
+----------------------------------------------------------
+Random seed: 13420460489294
+Testing fsiv_usm_enhance (circular) (g=1.59, r=7, filter_type=1) ...  Ok!
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"TestFSIVUSMEnhanceCircular" end time: Oct 30 20:25 CET
+"TestFSIVUSMEnhanceCircular" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 30 20:25 CET

@@ -1,0 +1,24 @@
+Start testing: Oct 22 13:48 CEST
+----------------------------------------------------------
+3/8 Testing: TestFSIVFillExpansion
+3/8 Test: TestFSIVFillExpansion
+Command: "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/usm_enhance/build/test_common_code" "fsiv_fill_expansion"
+Directory: /home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/usm_enhance/build
+"TestFSIVFillExpansion" start time: Oct 22 13:48 CEST
+Output:
+----------------------------------------------------------
+Random seed: 5683235568144
+Testing fsiv_fill_expansion ...
+\tTesting fsiv_fill_expansion (CV_8UC1 r=9) ... Error: OpenCV(4.6.0) /home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/usm_enhance/common_code.cpp:62: error: (-215:Assertion failed) ret_v.rows == in.rows + 2 * r in function 'fsiv_fill_expansion'
+
+\tTesting fsiv_fill_expansion (CV_32FC1 r=8) ... Error: OpenCV(4.6.0) /home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/usm_enhance/common_code.cpp:62: error: (-215:Assertion failed) ret_v.rows == in.rows + 2 * r in function 'fsiv_fill_expansion'
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"TestFSIVFillExpansion" end time: Oct 22 13:48 CEST
+"TestFSIVFillExpansion" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 22 13:48 CEST

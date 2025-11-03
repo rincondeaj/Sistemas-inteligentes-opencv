@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20251029-1133-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.28.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="drizzt-G5-GD"
+	OSRelease="6.14.0-33-generic"
+	OSVersion="#33~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Sep 19 17:02:30 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="141"
+	ProcessorCacheSize="12288"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="3814"
+	TotalPhysicalMemory="15772"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3995.46"
+	>
+	<Testing>
+		<StartDateTime>Oct 29 17:25 CET</StartDateTime>
+		<StartTestTime>1761755111</StartTestTime>
+		<TestList>
+			<Test>./TestFSIVFilter2D</Test>
+		</TestList>
+		<Test Status="failed">
+			<Name>TestFSIVFilter2D</Name>
+			<Path>.</Path>
+			<FullName>./TestFSIVFilter2D</FullName>
+			<FullCommandLine>/home/drizzt/Escritorio/Sistemas\ inteligentes\ en\ visión/Práctica3/usm_enhance/build/test_common_code "fsiv_filter2D"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>SEGFAULT</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>0</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.135738</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/drizzt/Escritorio/Sistemas\ inteligentes\ en\ visión/Práctica3/usm_enhance/build/test_common_code "fsiv_filter2D"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Random seed: 10226917169313
+Testing fsiv_filter2D (r=4) ... 
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Oct 29 17:25 CET</EndDateTime>
+		<EndTestTime>1761755111</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20251022-1019-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.28.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="drizzt-G5-GD"
+	OSRelease="6.14.0-33-generic"
+	OSVersion="#33~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Sep 19 17:02:30 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="141"
+	ProcessorCacheSize="12288"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="3814"
+	TotalPhysicalMemory="15772"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4099.95"
+	>
+	<Testing>
+		<StartDateTime>Oct 22 13:48 CEST</StartDateTime>
+		<StartTestTime>1761133705</StartTestTime>
+		<TestList>
+			<Test>./TestFSIVFillExpansion</Test>
+		</TestList>
+		<Test Status="failed">
+			<Name>TestFSIVFillExpansion</Name>
+			<Path>.</Path>
+			<FullName>./TestFSIVFillExpansion</FullName>
+			<FullCommandLine>/home/drizzt/Escritorio/Sistemas\ inteligentes\ en\ visión/Práctica3/usm_enhance/build/test_common_code "fsiv_fill_expansion"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Failed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00421095</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/drizzt/Escritorio/Sistemas\ inteligentes\ en\ visión/Práctica3/usm_enhance/build/test_common_code "fsiv_fill_expansion"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJzdkE1qw0AMhfc+hXaxWzpT/+IavCgm3bb0J6uCGcZyIrBnzGiSltymZ+gRcrE6ybaErrt6Ejzx9L5nZTo7AiN2FeRFmSZpPkucZcErsiezhp5p1/Y0DC1+TsowWQNCiODdX3KEzaot35oYXH0XHf2wdM66Ch4nNM0qzEQhbiOQGzui7Bzt914uWTvy1pGVL8QeR8VAxuNAa5yFAQ3siOnwbeSTO3xpT1qlcstji2ajjEap7Tha02rbodDTVBVJBXgODm+SOK/umdH544e9ogG7CBz6diec/WCo6znvPF5DAlfg5h36rdGni8UvRRfBH0CkycOJRPnPSfwA7B/Mvg==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Oct 22 13:48 CEST</EndDateTime>
+		<EndTestTime>1761133705</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

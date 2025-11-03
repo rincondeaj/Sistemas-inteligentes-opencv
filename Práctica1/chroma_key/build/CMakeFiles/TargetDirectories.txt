@@ -1,0 +1,5 @@
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/chroma_key/build/CMakeFiles/chroma_key.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/chroma_key/build/CMakeFiles/chroma_key_test_common_code.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/chroma_key/build/CMakeFiles/test.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/chroma_key/build/CMakeFiles/edit_cache.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica1/chroma_key/build/CMakeFiles/rebuild_cache.dir

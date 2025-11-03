@@ -1,0 +1,5 @@
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/build-sharpening/CMakeFiles/sharpen.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/build-sharpening/CMakeFiles/sharpening_test_common_code.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/build-sharpening/CMakeFiles/test.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/build-sharpening/CMakeFiles/edit_cache.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/build-sharpening/CMakeFiles/rebuild_cache.dir

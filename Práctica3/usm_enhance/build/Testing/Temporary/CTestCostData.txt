@@ -1,0 +1,9 @@
+TestFSIVCreateBoxFilter 4 0.00455763
+TestFSIVCreateGaussianFilter 4 0.00592997
+TestFSIVFillExpansion 3 0.00441695
+TestFSIVCircularExpansion 3 0.00432393
+TestFSIVFilter2D 4 0.0466163
+TestFSIVSoftCombineImages 3 0.00758545
+TestFSIVUSMEnhanceNoCircular 2 0.0465683
+TestFSIVUSMEnhanceCircular 2 0.0447493
+---
