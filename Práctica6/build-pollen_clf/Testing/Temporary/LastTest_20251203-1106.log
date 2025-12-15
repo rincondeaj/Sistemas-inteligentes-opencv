@@ -1,0 +1,20 @@
+Start testing: Dec 03 13:58 CET
+----------------------------------------------------------
+9/13 Testing: TestFSIVLoadRTreesClassifierModel
+9/13 Test: TestFSIVLoadRTreesClassifierModel
+Command: "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/build-pollen_clf/test_common_code" "fsiv_load_rtrees_classifier_model"
+Directory: /home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/build-pollen_clf
+"TestFSIVLoadRTreesClassifierModel" start time: Dec 03 13:58 CET
+Output:
+----------------------------------------------------------
+Random seed: 6847310657757
+Testing fsiv_load_rtrees_classifier_model() V=10 ...  Ok!
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"TestFSIVLoadRTreesClassifierModel" end time: Dec 03 13:58 CET
+"TestFSIVLoadRTreesClassifierModel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 03 13:58 CET

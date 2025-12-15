@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/build-pollen_clf",
+  "command": "/usr/bin/g++ -DUSE_OPENMP -isystem /usr/include/opencv4  -fopenmp -ggdb3 -O0 -Wall -std=gnu++17 -o CMakeFiles/common_code.dir/dataset.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/pollen_clf/dataset.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/pollen_clf/dataset.cpp",
+  "output": "CMakeFiles/common_code.dir/dataset.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/build-pollen_clf",
+  "command": "/usr/bin/g++ -DUSE_OPENMP -isystem /usr/include/opencv4  -fopenmp -ggdb3 -O0 -Wall -std=gnu++17 -o CMakeFiles/common_code.dir/classifiers.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/pollen_clf/classifiers.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/pollen_clf/classifiers.cpp",
+  "output": "CMakeFiles/common_code.dir/classifiers.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/build-pollen_clf",
+  "command": "/usr/bin/g++ -DUSE_OPENMP -isystem /usr/include/opencv4  -fopenmp -ggdb3 -O0 -Wall -std=gnu++17 -o CMakeFiles/common_code.dir/metrics.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/pollen_clf/metrics.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/pollen_clf/metrics.cpp",
+  "output": "CMakeFiles/common_code.dir/metrics.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/build-pollen_clf",
+  "command": "/usr/bin/g++ -DUSE_OPENMP -isystem /usr/include/opencv4  -fopenmp -ggdb3 -O0 -Wall -std=gnu++17 -o CMakeFiles/common_code.dir/features.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/pollen_clf/features.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/pollen_clf/features.cpp",
+  "output": "CMakeFiles/common_code.dir/features.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/build-pollen_clf",
+  "command": "/usr/bin/g++ -DUSE_OPENMP -isystem /usr/include/opencv4  -fopenmp -ggdb3 -O0 -Wall -std=gnu++17 -o CMakeFiles/common_code.dir/gray_levels_features.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/pollen_clf/gray_levels_features.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/pollen_clf/gray_levels_features.cpp",
+  "output": "CMakeFiles/common_code.dir/gray_levels_features.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/build-pollen_clf",
+  "command": "/usr/bin/g++ -DUSE_OPENMP -isystem /usr/include/opencv4  -fopenmp -ggdb3 -O0 -Wall -std=gnu++17 -o CMakeFiles/pollen_clf_test_common_code.dir/test_common_code.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/pollen_clf/test_common_code.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/pollen_clf/test_common_code.cpp",
+  "output": "CMakeFiles/pollen_clf_test_common_code.dir/test_common_code.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/build-pollen_clf",
+  "command": "/usr/bin/g++ -DUSE_OPENMP -isystem /usr/include/opencv4  -fopenmp -ggdb3 -O0 -Wall -std=gnu++17 -o CMakeFiles/show_BAA500.dir/show_BAA500.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/pollen_clf/show_BAA500.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/pollen_clf/show_BAA500.cpp",
+  "output": "CMakeFiles/show_BAA500.dir/show_BAA500.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/build-pollen_clf",
+  "command": "/usr/bin/g++ -DUSE_OPENMP -isystem /usr/include/opencv4  -fopenmp -ggdb3 -O0 -Wall -std=gnu++17 -o CMakeFiles/train_clf.dir/train_clf.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/pollen_clf/train_clf.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/pollen_clf/train_clf.cpp",
+  "output": "CMakeFiles/train_clf.dir/train_clf.cpp.o"
+},
+{
+  "directory": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/build-pollen_clf",
+  "command": "/usr/bin/g++ -DUSE_OPENMP -isystem /usr/include/opencv4  -fopenmp -ggdb3 -O0 -Wall -std=gnu++17 -o CMakeFiles/test_clf.dir/test_clf.cpp.o -c \"/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/pollen_clf/test_clf.cpp\"",
+  "file": "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica6/pollen_clf/test_clf.cpp",
+  "output": "CMakeFiles/test_clf.dir/test_clf.cpp.o"
+}
+]

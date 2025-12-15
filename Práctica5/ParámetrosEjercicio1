@@ -1,0 +1,6 @@
+Th -> Umbral para decir a partir de que valor es un pixel que consideramos que se ha movido lo suficiente
+Alfa -> Es el promedio con lo que ya tenía con antes, mucho la historia y poco lo nuevo, hay que aumentar el alfa
+xx -> Radio filtro
+xxx -> Tipo 1: Filtro caja, paso baja Tipo 2: Gaussiano
+xxx -> Filtrado morfolóigoco, radio elemento esrtuctura
+xxx -> 0 cuadrodo 1 cruz 2 es elipse o esferico

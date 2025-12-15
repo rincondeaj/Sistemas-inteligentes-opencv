@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "pollen_clf",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "common_code::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-common_code-Debug-8ad0f700b425f5127026.json",
+					"name" : "common_code",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pollen_clf_test_common_code::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pollen_clf_test_common_code-Debug-9c11e74ab01e28536439.json",
+					"name" : "pollen_clf_test_common_code",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "show_BAA500::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-show_BAA500-Debug-36347c8cdcd0d2076ade.json",
+					"name" : "show_BAA500",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_clf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_clf-Debug-fa270b9afdfadaf00a76.json",
+					"name" : "test_clf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "train_clf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-train_clf-Debug-9ffbbef5f9869e03cfd2.json",
+					"name" : "train_clf",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/drizzt/Escritorio/Sistemas inteligentes en visi\u00f3n/Pr\u00e1ctica6/build-pollen_clf",
+		"source" : "/home/drizzt/Escritorio/Sistemas inteligentes en visi\u00f3n/Pr\u00e1ctica6/pollen_clf"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

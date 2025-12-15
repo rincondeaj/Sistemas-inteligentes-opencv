@@ -1,9 +1,9 @@
-TestFSIVCreateGaussianFilter 1 0.0148379
-TestFSIVFillExpansion 1 0.00423637
-TestFSIVCircularExpansion 1 0.00453078
-TestFSIVCreateLap4Filter 1 0.00371917
-TestFSIVCreateLap8Filter 1 0.00425176
-TestFSIVCreateDoGFilter 1 0.00448576
-TestFSIVCreateSharpeningFilter 1 0.0044881
-TestFSIVImageSharpening 1 0.00572792
+TestFSIVCreateGaussianFilter 2 0.00955024
+TestFSIVFillExpansion 2 0.00473706
+TestFSIVCircularExpansion 2 0.00438199
+TestFSIVCreateLap4Filter 2 0.00380477
+TestFSIVCreateLap8Filter 2 0.00392893
+TestFSIVCreateDoGFilter 2 0.00414445
+TestFSIVCreateSharpeningFilter 2 0.00422926
+TestFSIVImageSharpening 2 0.00578673
 ---

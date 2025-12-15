@@ -1,0 +1,22 @@
+Start testing: Dec 02 13:18 CET
+----------------------------------------------------------
+5/5 Testing: TestFSIVBlurBackground
+5/5 Test: TestFSIVBlurBackground
+Command: "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica5/build-blur_background/test_common_code" "fsiv_blur_background"
+Directory: /home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica5/build-blur_background
+"TestFSIVBlurBackground" start time: Dec 02 13:18 CET
+Output:
+----------------------------------------------------------
+Random seed: 8583106507819
+Testing fsiv_blur_background ... 
+\tfsiv_blur_background (r=11 gaussian=false ) ...  Ok!
+\tfsiv_blur_background (r=11 gaussian=true ) ...  Ok!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TestFSIVBlurBackground" end time: Dec 02 13:18 CET
+"TestFSIVBlurBackground" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 02 13:18 CET

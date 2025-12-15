@@ -1,0 +1,24 @@
+Start testing: Nov 19 13:55 CET
+----------------------------------------------------------
+4/5 Testing: TestFSIVComputeOfForegroundMask
+4/5 Test: TestFSIVComputeOfForegroundMask
+Command: "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica5/build/test_common_code" "fsiv_compute_of_foreground_mask"
+Directory: /home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica5/build
+"TestFSIVComputeOfForegroundMask" start time: Nov 19 13:55 CET
+Output:
+----------------------------------------------------------
+Random seed: 10555173881145
+Testing fsiv_compute_of_foreground_mask ... 
+\tfsiv_compute_of_foreground_mask (without initial estimate, th = 0.38 ste_r=0 ste_type=2 alpha=0) ... Error: OpenCV(4.6.0) /home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica5/blur_background/common_code.cpp:113: error: (-215:Assertion failed) mask.type() == CV_8UC1 in function 'fsiv_compute_of_foreground_mask'
+
+\tfsiv_compute_of_foreground_mask (with initial estimate, th = 0.84 ste_r=3 ste_type=2 alpha=0.45) ... Error: OpenCV(4.6.0) ./modules/core/src/arithm.cpp:672: error: (-5:Bad argument) When the input arrays in add/subtract/multiply/divide functions have different types, the output array type must be explicitly specified in function 'arithm_op'
+
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Failed.
+"TestFSIVComputeOfForegroundMask" end time: Nov 19 13:55 CET
+"TestFSIVComputeOfForegroundMask" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 19 13:55 CET

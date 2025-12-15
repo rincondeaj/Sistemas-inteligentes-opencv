@@ -1,0 +1,15 @@
+TestFSIVComputeDerivate 13 0.00597818
+TestFSIVComputeGradientMagnitude 13 0.00452193
+TestFSIVComputeGradientHistogram 13 0.00482663
+TestFSIVComputeHistogramPercentile 31 0.00462499
+TestFSIVHistogramIdxToValue 13 0.00484957
+TestFSIVThiningEdgeMap 15 0.00599518
+TestFSIVPercentileEdgeDetector 13 0.00749917
+TestFSIVOtsuEdgeDetector 13 0.00612542
+TestFSIVCannyEdgeDetector 13 0.0073998
+TestFSIVComputeGroundTruthImage 13 0.00455908
+TestFSIVComputeEdgeDetectorConfusionMatrix 13 0.00489371
+TestFSIVComputeSensitivity 13 0.00461407
+TestFSIVComputePrecision 13 0.00500061
+TestFSIVComputeF1Score 13 0.00479267
+---

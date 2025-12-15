@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20251119-1118-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.28.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="drizzt-G5-GD"
+	OSRelease="6.14.0-33-generic"
+	OSVersion="#33~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Sep 19 17:02:30 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="141"
+	ProcessorCacheSize="12288"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="3814"
+	TotalPhysicalMemory="15772"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3882.44"
+	>
+	<Testing>
+		<StartDateTime>Nov 19 13:55 CET</StartDateTime>
+		<StartTestTime>1763556938</StartTestTime>
+		<TestList>
+			<Test>./TestFSIVComputeOfForegroundMask</Test>
+		</TestList>
+		<Test Status="failed">
+			<Name>TestFSIVComputeOfForegroundMask</Name>
+			<Path>.</Path>
+			<FullName>./TestFSIVComputeOfForegroundMask</FullName>
+			<FullCommandLine>/home/drizzt/Escritorio/Sistemas\ inteligentes\ en\ visión/Práctica5/build/test_common_code "fsiv_compute_of_foreground_mask"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Failed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.1336</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/drizzt/Escritorio/Sistemas\ inteligentes\ en\ visión/Práctica5/build/test_common_code "fsiv_compute_of_foreground_mask"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNkktu2zAQhvc+xexiAylp2VYiCNCiNbJu0UeyKSDQ5MgahC/w4da5Tc/QI+RipeUiaIGk6WoAcvg/PvCjsMoZiIiqhWpZ13V1vW6aqtrUs88YE9k9DJEOvXTG54S9G/rBBdwHl63qjYj3wBiD2df02tr8G6XR5QRkKZHQcJI3IuElpBE6WLJ1A7G8Dd1ymunosVuB0H4U3XIx+dyE4EIL7z3a7e18w65YueCjM8hVoIeHxG+iDJRcIMc/UZEp3sUxoaY9lhEBLRwo0uNPyz+Exx8ykRQ13+kc+p2Q9+fIvBQxzpY+Cpn0vq2qdQt4dp+/WVV1+zZGDImchUGQRrWAU012Sj1fQNfB9rZvvmyr4g5DtnJavXiF0sXsf0m+jLHZ/Ma4fgYj29T/IMm4cSprjKV/QB6D5KLQHM3E4Op69QeDun0nFIiwz6aAXcDdWMimEUuwErxcBHE8oQehFI95l4KQiZusE3l95IoOpPCJTIRRHBAUDQOGogen2PFyEiyf5klxOgeTY4IdAn73miQlfYToUdJAqP7mfY7fO1/I/gIZVwd/====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Nov 19 13:55 CET</EndDateTime>
+		<EndTestTime>1763556938</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

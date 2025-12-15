@@ -1,0 +1,5 @@
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica5/build-edge_detector/CMakeFiles/edge_detector.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica5/build-edge_detector/CMakeFiles/edge_detector_test_common_code.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica5/build-edge_detector/CMakeFiles/test.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica5/build-edge_detector/CMakeFiles/edit_cache.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica5/build-edge_detector/CMakeFiles/rebuild_cache.dir

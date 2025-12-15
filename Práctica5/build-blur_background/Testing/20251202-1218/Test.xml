@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20251202-1218-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.28.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="drizzt-G5-GD"
+	OSRelease="6.14.0-33-generic"
+	OSVersion="#33~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Sep 19 17:02:30 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="141"
+	ProcessorCacheSize="12288"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="3814"
+	TotalPhysicalMemory="15772"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4100"
+	>
+	<Testing>
+		<StartDateTime>Dec 02 13:18 CET</StartDateTime>
+		<StartTestTime>1764677923</StartTestTime>
+		<TestList>
+			<Test>./TestFSIVBlurBackground</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>TestFSIVBlurBackground</Name>
+			<Path>.</Path>
+			<FullName>./TestFSIVBlurBackground</FullName>
+			<FullCommandLine>/home/drizzt/Escritorio/Sistemas\ inteligentes\ en\ visión/Práctica5/build-blur_background/test_common_code "fsiv_blur_background"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00741704</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/drizzt/Escritorio/Sistemas\ inteligentes\ en\ visión/Práctica5/build-blur_background/test_common_code "fsiv_blur_background"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJwLSsxLyc9VKE5NTbFSsDC1MDY0MDM1MLcwtOQKSS0uycxLV0grziyLT8opLYpPSkzOTi/KL81LUdDT01PgiinBKqdRZGtoqJCeWFpcnJmYZ5uWmFOcqqAJ1qLgn61IpLaSolIUXQDPmjek====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Dec 02 13:18 CET</EndDateTime>
+		<EndTestTime>1764677923</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

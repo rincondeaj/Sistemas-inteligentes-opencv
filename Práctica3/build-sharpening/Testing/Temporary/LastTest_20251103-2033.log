@@ -1,0 +1,24 @@
+Start testing: Nov 03 21:59 CET
+----------------------------------------------------------
+8/8 Testing: TestFSIVImageSharpening
+8/8 Test: TestFSIVImageSharpening
+Command: "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/build-sharpening/test_common_code" "fsiv_image_sharpening"
+Directory: /home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica3/build-sharpening
+"TestFSIVImageSharpening" start time: Nov 03 21:59 CET
+Output:
+----------------------------------------------------------
+Random seed: 4834415929905
+Testing fsiv_image_sharpening ...
+\tTesting fsiv_image_sharpening (filter_type=0, circular=0) ...  Ok!
+\tTesting fsiv_image_sharpening (filter_type=1, circular=0) ...  Ok!
+\tTesting fsiv_image_sharpening (filter_type=2, r1=1, r2=4, circular=0) ...  Ok!
+\tTesting fsiv_image_sharpening (filter_type=0, circular=1) ...  Ok!
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TestFSIVImageSharpening" end time: Nov 03 21:59 CET
+"TestFSIVImageSharpening" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 03 21:59 CET

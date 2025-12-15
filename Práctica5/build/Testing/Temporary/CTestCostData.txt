@@ -1,0 +1,6 @@
+TestFSIVComputeDenseOpticalFlow 8 0.137638
+TestFSIVComputeOpticalFlowMagnitude 1 0.0347166
+TestFSIVCreateStructuringElement 1 0.00561551
+TestFSIVComputeOfForegroundMask 0 0
+---
+TestFSIVComputeOfForegroundMask

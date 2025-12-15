@@ -1,0 +1,21 @@
+Start testing: Dec 02 12:34 CET
+----------------------------------------------------------
+14/14 Testing: TestFSIVComputeF1Score
+14/14 Test: TestFSIVComputeF1Score
+Command: "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica5/build-edge_detector/test_common_code" "fsiv_compute_F1_score"
+Directory: /home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica5/build-edge_detector
+"TestFSIVComputeF1Score" start time: Dec 02 12:34 CET
+Output:
+----------------------------------------------------------
+Random seed: 5921426263055
+Testing fsiv_compute_gradient_magnitude ...  Ok!
+Testing fsiv_compute_F1_score ...  Ok!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestFSIVComputeF1Score" end time: Dec 02 12:34 CET
+"TestFSIVComputeF1Score" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 02 12:34 CET

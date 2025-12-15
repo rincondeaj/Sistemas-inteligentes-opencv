@@ -1,0 +1,21 @@
+Start testing: Nov 27 18:08 CET
+----------------------------------------------------------
+6/14 Testing: TestFSIVThiningEdgeMap
+6/14 Test: TestFSIVThiningEdgeMap
+Command: "/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica5/build-edge_detector/test_common_code" "fsiv_thinning_edge_map"
+Directory: /home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica5/build-edge_detector
+"TestFSIVThiningEdgeMap" start time: Nov 27 18:08 CET
+Output:
+----------------------------------------------------------
+Random seed: 15479274483348
+Testing fsiv_thinning_edge_map ...  Ok!
+Testing fsiv_compute_gradient_magnitude ...  Ok!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestFSIVThiningEdgeMap" end time: Nov 27 18:08 CET
+"TestFSIVThiningEdgeMap" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 27 18:08 CET

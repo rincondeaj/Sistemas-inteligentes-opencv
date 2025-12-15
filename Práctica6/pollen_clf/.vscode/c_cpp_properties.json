@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/opencv4"
+            ],
+            "defines": [],
+            "cStandard": "c17",
+            "intelliSenseMode": "${default}",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}

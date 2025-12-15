@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20251127-1430-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.28.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="drizzt-G5-GD"
+	OSRelease="6.14.0-33-generic"
+	OSVersion="#33~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Sep 19 17:02:30 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="141"
+	ProcessorCacheSize="12288"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="3814"
+	TotalPhysicalMemory="15772"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4100"
+	>
+	<Testing>
+		<StartDateTime>Nov 27 18:08 CET</StartDateTime>
+		<StartTestTime>1764263291</StartTestTime>
+		<TestList>
+			<Test>./TestFSIVThiningEdgeMap</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>TestFSIVThiningEdgeMap</Name>
+			<Path>.</Path>
+			<FullName>./TestFSIVThiningEdgeMap</FullName>
+			<FullCommandLine>/home/drizzt/Escritorio/Sistemas\ inteligentes\ en\ visión/Práctica5/build-edge_detector/test_common_code "fsiv_thinning_edge_map"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00442896</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/drizzt/Escritorio/Sistemas\ inteligentes\ en\ visión/Práctica5/build-edge_detector/test_common_code "fsiv_thinning_edge_map"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Random seed: 15479274483348
+Testing fsiv_thinning_edge_map ...  Ok!
+Testing fsiv_compute_gradient_magnitude ...  Ok!
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Nov 27 18:08 CET</EndDateTime>
+		<EndTestTime>1764263291</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

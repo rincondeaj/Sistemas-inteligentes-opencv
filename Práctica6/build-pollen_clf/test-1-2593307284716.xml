@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<L2_diff>9.3068312576742029e-01</L2_diff>
+<test_img type_id="opencv-matrix">
+  <rows>4</rows>
+  <cols>3</cols>
+  <dt>u</dt>
+  <data>
+    147 151 3 212 109 31 225 39 1 91 93 191</data></test_img>
+<my_img type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>12</cols>
+  <dt>f</dt>
+  <data>
+    6.51785731e-01 6.69642866e-01 8.92857183e-03 9.41964328e-01
+    4.82142866e-01 1.33928582e-01 1. 1.69642866e-01 0. 4.01785731e-01
+    4.10714298e-01 8.48214328e-01</data></my_img>
+<your_img type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>12</cols>
+  <dt>f</dt>
+  <data>
+    1. 1. 0. 1. 0. 0. 1. 0. 0. 0. 0. 1.</data></your_img>
+</opencv_storage>

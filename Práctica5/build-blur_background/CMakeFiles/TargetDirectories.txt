@@ -1,0 +1,5 @@
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica5/build-blur_background/CMakeFiles/blur_background.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica5/build-blur_background/CMakeFiles/blur_background_test_common_code.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica5/build-blur_background/CMakeFiles/test.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica5/build-blur_background/CMakeFiles/edit_cache.dir
+/home/drizzt/Escritorio/Sistemas inteligentes en visión/Práctica5/build-blur_background/CMakeFiles/rebuild_cache.dir

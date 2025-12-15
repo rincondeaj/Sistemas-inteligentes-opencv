@@ -1,0 +1,91 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "show_BAA500",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/../build-${workspaceFolderBasename}/show_BAA500",
+      "args": ["${workspaceFolder}/data/train", "valid"],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        },
+        {
+          "description": "Set Disassembly Flavor to Intel",
+          "text": "-gdb-set disassembly-flavor intel",
+          "ignoreFailures": true
+        }
+      ]
+    },
+    {
+      "name": "train_clf (rtrees)",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/../build-${workspaceFolderBasename}/train_clf",
+      "args": [
+        "--clf=2",
+        "--train_set=train",
+        "--valid_set=valid",
+        "${workspaceFolder}/data/train",
+        "rt-model.yml"
+      ],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}/../build-${workspaceFolderBasename}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        },
+        {
+          "description": "Set Disassembly Flavor to Intel",
+          "text": "-gdb-set disassembly-flavor intel",
+          "ignoreFailures": true
+        }
+      ]
+    },
+    {
+      "name": "test_clf (rtrees)",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/../build-${workspaceFolderBasename}/test_clf",
+      "args": [
+        "${workspaceFolder}/data/test",
+        "test",
+        "${workspaceFolder}/../build-${workspaceFolderBasename}/rt-model.yml",
+        "${workspaceFolder}/../build-${workspaceFolderBasename}/rt-predictions.csv"
+      ],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}/../build-${workspaceFolderBasename}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        },
+        {
+          "description": "Set Disassembly Flavor to Intel",
+          "text": "-gdb-set disassembly-flavor intel",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

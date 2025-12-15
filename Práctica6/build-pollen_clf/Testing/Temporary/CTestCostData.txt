@@ -1,0 +1,10 @@
+TestFSIVExtract01NormalizedGrayLevels 3 0.0350176
+TestFSIVCreateKNNClassifier 2 0.0347033
+TestFSIVCreateSVMClassifier 3 0.0347576
+TestFSIVCreateRTreesClassifier 2 0.0351599
+TestFSIVTrainClassifier 1 0.0384786
+TestFSIVPredictLabels 1 0.0355626
+TestFSIVLoadKNNClassifierModel 1 0.0385609
+TestFSIVLoadSVMClassifierModel 1 0.035504
+TestFSIVLoadRTreesClassifierModel 1 0.0413984
+---

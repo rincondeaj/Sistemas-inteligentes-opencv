@@ -1,15 +1,14 @@
 # Lo que he hecho
 
-_Describe de forma honesta qué funcionalidades has realizado de forma total o parcial, indicando en este caso qué problema has tenido para no poder implementarla de forma completa._
+Todas las funcionalidades del ejercicio han sido implementadas por mí. Durante el proceso de desarrollo consulté documentación tanto a la documentación de OpenCV como pidiendo orientación a copilot.
 
 # Lo que no he hecho
 
 # Enlace al vídeo descriptivo
 
-_No olvides poner en la descripción del vídeo los capítulos de la forma:_
+[ENLACE] https://youtu.be/jKmvfLqBdvo
 '
 Capítulos:
-00:00 fsiv_xxxx
-01:30 fsiv_xxxx
-03:00 Ejemplo de ejecución con parámetro X y justificación.
+0:00 Explicación inicial de la técnica
+1:35 Ejemplo de ejecución con parámetros
 '
